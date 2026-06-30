@@ -95,11 +95,11 @@ The word `not` needs to be removed from the condition.
 > **Instructions:** Take these screenshots from your IDE and paste them here before submitting.
 
 **Screenshot 1:** Terminal output showing the bug (wrong search results)
-
+![alt text](image.png)
 **Screenshot 2:** Debugger paused at line 38 of `library.py` with variables visible
-
+![alt text](image-1.png)
 **Screenshot 3:** Debug Console showing `"harry" not in "harry potter"` returning `False`
-
+![alt text](image-2.png)
 ---
 
 ## 7. Final Fix
